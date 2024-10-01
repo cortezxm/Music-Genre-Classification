@@ -5,6 +5,8 @@ This project aims to classify songs into different musical genres using **Deep L
 ## 📌 Description
 In this project, **CNNs**, and **MLP** neural networks are used to classify musical genres from audio files. The dataset is processed by extracting features using **MFCCs** (Mel Frequency Cepstral Coefficients) with the **Librosa** library.
 
+*This project draws inspiration from concepts presented in the **Deep Learning (for Audio) with Python** series by **Valerio Velardo - The Sound of AI**.*
+
 ## 🚀 Technologies
 - **Python**
 - **TensorFlow** and **Keras**
